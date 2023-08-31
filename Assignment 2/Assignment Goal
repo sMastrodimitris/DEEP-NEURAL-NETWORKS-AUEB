@@ -1,1 +1,12 @@
-Use of deep neural networks teckniques to solve the MURA dataset problem. 
+Introduction
+Submit a report (pdf or a clean notebook) for the following machine learning project.
+Explain briefly in the report the architectures that you used, how they were trained, tuned, etc. 
+Describe challenges and problems and how they were addressed. 
+Present in the report your experimental results and demos (e.g., screenshots) showing how your code works.
+
+X-Ray classification
+Given a study containing X-Ray images, build a deep learning model that decides if the study is normal or abnormal. 
+You must use at least 2 different architectures, one with your own CNN model (e.g., you can use a model similar to the CNN of the previous project) 
+and one with a popular pre-trained CNN model (e.g., VGG-19, ResNet, etc.). Use the MURA dataset to train and evaluate your models. 
+More information about the task and the dataset can be found at https://stanfordmlgroup.github.io/competitions/mura/. 
+To download the dataset you must fill out a form, so complete this action as soon as possible.
